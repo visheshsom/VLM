@@ -28,3 +28,6 @@ dist-ssr
 backend/venv
 backend/__pycache__
 backend/uploads
+
+# Duplicate source folder
+src 2
