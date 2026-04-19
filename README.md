@@ -1,4 +1,4 @@
-# OpenVision Engine – Vision Language Model Agent
+# OpenVision Engine - Vision Language Model Agent
 
 Zero-shot object detection in images, videos, and live camera feeds using **Google OWLv2**.
 
